@@ -1,0 +1,377 @@
+{  
+   "entity":{  
+      "avg_rating":5.0,
+      "bookmark_id":"mGGgTmcB1s-TizZqJsxx",
+      "draft":false,
+      "elements":[  
+         {  
+            "created_at":"2018-11-14T04:20:00",
+            "element":{  
+               "abbreviation":"UI",
+               "avg_rating":5.0,
+               "currency":"USD",
+               "draft":false,
+               "duration":225,
+               "duration_uom":"MINUTES",
+               "facilitator_type":"Provider",
+               "grades":[  
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+               ],
+               "id":"ELEMENT77",
+               "kind":"REAL_WORLD_APPLICATION",
+               "price":0.0,
+               "private":false,
+               "provider_type":"Provider",
+               "summary":"In Phase 2: Understand, young people will research and conduct interviews in order to more deeply understand their chosen injustice. They will begin by interviewing members of the community who may have opposing views. The young people will then create problem and solution trees to uncover the root cause of the injustice and brainstorm solutions. Once they have identified potential solutions they will identify any potential risks for this project.",
+               "tags":[  
+                  "Comprehension",
+                  "Social Justice",
+                  "inequality",
+                  "interviews",
+                  "community",
+                  "problem",
+                  "solution",
+                  "cause",
+                  "brainstorm",
+                  "risks"
+               ],
+               "title":"Phase 2: Understanding the Injustice"
+            },
+            "element_id":"ELEMENT77",
+            "facilitator":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "facilitator_type":"Provider",
+            "id":"STRINGELEMENT151",
+            "provider":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "provider_type":"Provider",
+            "sequence":1,
+            "string_id":"STRING21",
+            "updated_at":"2018-11-14T04:20:00"
+         },
+         {  
+            "created_at":"2018-11-14T04:20:00",
+            "element":{  
+               "abbreviation":"PI",
+               "avg_rating":5.0,
+               "currency":"USD",
+               "draft":false,
+               "duration":145,
+               "duration_uom":"MINUTES",
+               "facilitator_type":"Provider",
+               "grades":[  
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+               ],
+               "id":"ELEMENT78",
+               "kind":"REAL_WORLD_APPLICATION",
+               "price":0.0,
+               "private":false,
+               "provider_type":"Provider",
+               "summary":"In Phase 3: Plan, the young people will turn their insights into action and invite others to join them. They will begin by creating SMART goals and then identify resources needed to carry out the plan. The young people will create a budget for their project and identify people, with whom they could partner.",
+               "tags":[  
+                  "Planning",
+                  "Solution",
+                  "action",
+                  "collaboration",
+                  "SMART goals",
+                  "resources",
+                  "budget"
+               ],
+               "title":"Phase 3: Planning to Solve the Injustice"
+            },
+            "element_id":"ELEMENT78",
+            "facilitator":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "facilitator_type":"Provider",
+            "id":"STRINGELEMENT152",
+            "provider":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "provider_type":"Provider",
+            "sequence":2,
+            "string_id":"STRING21",
+            "updated_at":"2018-11-14T04:20:00"
+         },
+         {  
+            "created_at":"2018-11-14T04:20:00",
+            "element":{  
+               "abbreviation":"AP",
+               "avg_rating":5.0,
+               "currency":"USD",
+               "draft":false,
+               "duration":105,
+               "duration_uom":"MINUTES",
+               "facilitator_type":"Provider",
+               "grades":[  
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+               ],
+               "id":"ELEMENT79",
+               "kind":"REAL_WORLD_APPLICATION",
+               "price":0.0,
+               "private":false,
+               "provider_type":"Provider",
+               "summary":"In Phase 4: Act, the young people will engage in their peacemaking projects. As the projects progress, teams can track their progress through a worksheet and online to stay accountable to the work. It is also a good time to go back to the team effectiveness survey and check in on progress.",
+               "tags":[  
+                  "Action",
+                  "Social Justice",
+                  "peace",
+                  "project",
+                  "evidence",
+                  "challenge"
+               ],
+               "title":"Phase 4: Acting Upon that Plan"
+            },
+            "element_id":"ELEMENT79",
+            "facilitator":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "facilitator_type":"Provider",
+            "id":"STRINGELEMENT153",
+            "provider":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "provider_type":"Provider",
+            "sequence":3,
+            "string_id":"STRING21",
+            "updated_at":"2018-11-14T04:20:00"
+         },
+         {  
+            "created_at":"2018-11-14T04:20:00",
+            "element":{  
+               "abbreviation":"RW",
+               "avg_rating":5.0,
+               "currency":"USD",
+               "draft":false,
+               "duration":150,
+               "duration_uom":"MINUTES",
+               "facilitator_type":"Provider",
+               "grades":[  
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+               ],
+               "id":"ELEMENT80",
+               "kind":"REAL_WORLD_APPLICATION",
+               "price":0.0,
+               "private":false,
+               "provider_type":"Provider",
+               "summary":"In Phase 5: Reflect, the young people will reflect on their journey as a peacemaking both individually and as a team. The young people will then plan a celebration and giving thanks activity for all of their hard work and the hard work of the community that supported them. Then a tool is for the peacemakers to tell their stories. The last tool includes a few questions for young people to reflect on their full journey.",
+               "tags":[  
+                  "Reflection",
+                  "social justice",
+                  "peace",
+                  "team",
+                  "celebration",
+                  "thanks"
+               ],
+               "title":"Phase 5: Reflecting on Your Work"
+            },
+            "element_id":"ELEMENT80",
+            "facilitator":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "facilitator_type":"Provider",
+            "id":"STRINGELEMENT154",
+            "provider":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "provider_type":"Provider",
+            "sequence":4,
+            "string_id":"STRING21",
+            "updated_at":"2018-11-14T04:20:00"
+         },
+         {  
+            "created_at":"2018-11-14T04:20:00",
+            "element":{  
+               "abbreviation":"CI",
+               "avg_rating":5.0,
+               "currency":"USD",
+               "draft":false,
+               "duration":265,
+               "duration_uom":"MINUTES",
+               "facilitator_type":"Provider",
+               "grades":[  
+                  8,
+                  9,
+                  10,
+                  11,
+                  12
+               ],
+               "id":"ELEMENT76",
+               "kind":"REAL_WORLD_APPLICATION",
+               "price":0.0,
+               "private":false,
+               "provider_type":"Provider",
+               "summary":"In Phase 1: Choose, the young people will go through 6 tools in order to identify an injustice in their community. You will begin by introducing the peacemakers to the Peace First program through the introductory video. The young people will then reflect on their role as peacemakers and create group norms which will guide them through their work. They will then identify positive and negative aspects of their community and determine what is an injustice versus an inconvenience. By voting, young people will decide which injustice in their community they would like to address for their peacemaking project.",
+               "tags":[  
+                  "Social Justice",
+                  "community",
+                  "peace",
+                  "norms",
+                  "voting"
+               ],
+               "title":"Phase 1: Choosing an Injustice"
+            },
+            "element_id":"ELEMENT76",
+            "facilitator":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "facilitator_type":"Provider",
+            "id":"STRINGELEMENT150",
+            "provider":{  
+               "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+               "avg_rating":5.0,
+               "color":"EB7364",
+               "id":"PROVIDER2",
+               "logo_id":"CONTENT3",
+               "name":"Peace First",
+               "tags":[  
+                  "bullying",
+                  "racism",
+                  "critical thinking"
+               ]
+            },
+            "provider_type":"Provider",
+            "sequence":0,
+            "string_id":"STRING21",
+            "updated_at":"2018-11-14T04:20:00"
+         }
+      ],
+      "entity":{  
+         "about":"Peace First is a non-profit organization dedicated to helping young people around the world to become powerful peacemakers by:\n\n- Investing in their ideas\n- Providing them with tools and skills\n- Connecting them with other awesome young people around the world\n- Sharing their stories and impact with the world",
+         "avg_rating":5.0,
+         "color":"EB7364",
+         "id":"PROVIDER2",
+         "logo_id":"CONTENT3",
+         "name":"Peace First",
+         "tags":[  
+            "bullying",
+            "racism",
+            "critical thinking"
+         ]
+      },
+      "entity_type":"Provider",
+      "grades":[  
+         7,
+         8,
+         9,
+         10,
+         11,
+         12
+      ],
+      "id":"STRING21",
+      "name":"The Peace First Challenge",
+      "price":0.0,
+      "private":false
+   },
+   "entity_id":"STRING21",
+   "entity_type":"String",
+   "id":"mGGgTmcB1s-TizZqJsxx"
+}

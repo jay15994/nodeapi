@@ -1,0 +1,61 @@
+{  
+   "entity":{  
+      "abbreviation":"HR",
+      "avg_rating":5.0,
+      "bookmark_id":"TqbZWWcBdWKh9uzwLCpX",
+      "currency":"USD",
+      "draft":false,
+      "duration":40,
+      "duration_uom":"MINUTES",
+      "facilitator":{  
+         "about":"High Resolves is a recognized leader in the design and delivery of citizenship and leadership learning experiences. Since our inception in 2005, our award-winning program has engaged over 200,000 high school students in Australia and is growing fast on a fully self-funding basis. We have expanded offshore to the United States thanks to the generous support of Omidyar Network and the Einhorn Family Charitable Trust and have begun further expansion into China and Canada, with new partnerships also forming in Brazil and Africa. ",
+         "avg_rating":5.0,
+         "color":"FF5A00",
+         "id":"PROVIDER1",
+         "logo_id":"CONTENT2",
+         "name":"High Resolves",
+         "tags":[  
+            "critical thinking",
+            "communication",
+            "social-awareness"
+         ]
+      },
+      "facilitator_type":"Provider",
+      "grades":[  
+         10,
+         11,
+         12
+      ],
+      "id":"ELEMENT31",
+      "kind":"REPEATED_PRACTICE",
+      "price":0.0,
+      "private":false,
+      "provider":{  
+         "about":"High Resolves is a recognized leader in the design and delivery of citizenship and leadership learning experiences. Since our inception in 2005, our award-winning program has engaged over 200,000 high school students in Australia and is growing fast on a fully self-funding basis. We have expanded offshore to the United States thanks to the generous support of Omidyar Network and the Einhorn Family Charitable Trust and have begun further expansion into China and Canada, with new partnerships also forming in Brazil and Africa. ",
+         "avg_rating":5.0,
+         "color":"FF5A00",
+         "id":"PROVIDER1",
+         "logo_id":"CONTENT2",
+         "name":"High Resolves",
+         "tags":[  
+            "critical thinking",
+            "communication",
+            "social-awareness"
+         ]
+      },
+      "provider_type":"Provider",
+      "summary":"In this lesson, students understand how human rights can help society. They begin the lesson identifying the difference between things people want and deserve. Students explore the definition of human rights and the challenges in determining what is right for everyone. The class works together to create a declaration of rights and reflect on the potential reasons why rights can sometimes not transfer from paper to reality. Students examine how rights can help people and wider society and compare the 30 articles of the Universal Declaration of Human Rights to the list they created. The lesson concludes with students reflecting on the responsibility we all have to ensure our own everyday actions reflect human rights.",
+      "tags":[  
+         "communication",
+         "social-awareness",
+         "global mindedness",
+         "critical thinking",
+         "collaboration",
+         "active listening"
+      ],
+      "title":"Human Rights"
+   },
+   "entity_id":"ELEMENT31",
+   "entity_type":"Element",
+   "id":"TqbZWWcBdWKh9uzwLCpX"
+}
